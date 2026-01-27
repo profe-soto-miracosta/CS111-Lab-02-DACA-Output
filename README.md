@@ -1,4 +1,4 @@
-# Lab 02 - DACA + Output
+ # Lab 02 - DACA + Output
 
 ![Image of DACA Employment Authorization Card](https://i.imgur.com/xRUVy3O.jpg)
 
@@ -6,7 +6,7 @@ _Learning Objective: demonstrate an understanding of basic variables and output 
 
 You're working for the U.S. Citizenship and Immigration Services (USCIS) office and are in charge of a project to create quick-print replacements for Employment Authorization Cards. In case someone has their card stolen or is lost, they can come into the office and receive a low-resolution print that will be honored until your replacement card is mailed out.
 
-One of the interns on the team just got the template back to you (see code on the left). It's your job to complete the prototype before submitting it, fully documented, to the project manager.
+One of the interns on the team just got the template back to you [see Main.java](./Main.java). It's your job to complete the prototype before submitting it, fully documented, to the project manager.
 
 **Given:**
 
@@ -15,7 +15,7 @@ One of the interns on the team just got the template back to you (see code on th
 
 **Definitions:**
 
-- ASCII art: graphic design technique using computer characters to draw images
+- ASCII art: graphic design technique using computer characters to draw images. For example, `\(^-^)/`
 - Unicode: Universal Coded Character Set (like ASCII but _way_ bigger!) Can use them using escape character `\u` followed by a Unicode value, but much simpler/more readable to just copy/paste character into code
 - Box Drawing Unicode characters: [https://unicode-table.com/en/blocks/box-drawing/ (explore website later for more!)](https://unicode-table.com/en/blocks/box-drawing/)
 
